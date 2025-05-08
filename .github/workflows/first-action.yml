@@ -14,5 +14,5 @@ jobs:
         run: |
             echo "This the first line"
             echo "And this is the second line"
-      - name: Print goodby
+      - name: Print goodbye
         run: echo "Good bye!"
